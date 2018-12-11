@@ -10,10 +10,10 @@ var config = {
    */
     uaa: {
 
-        clientId: '1',
-        clientSecret: '12345',
-        serverUrl: 'http://xxx-xxx.neuseer.cn',
-        redirect_uri: 'http://xxx.neuseer.cn/callback',
+        clientId: '3',
+        clientSecret: '89CvvjeheLIMFIm8ize7UhQmL2vO4vO1ZWzH6Gal',
+        serverUrl: 'http://integratedemoapp.neuseer.cn',
+        redirect_uri: 'http://integratedemoapp.neuseer.cn/IntegrateDemo-0.0.1-SNAPSHOT/DataCenter.jsp/callback',
         defaultClientRoute: '/about'
 
     },
